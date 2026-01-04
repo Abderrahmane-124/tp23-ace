@@ -127,3 +127,5 @@ ms_rest_template/
 
 ---
 
+## Captures d ecran<img width="1839" height="1105" alt="Screenshot 2026-01-04 164132" src="https://github.com/user-attachments/assets/35825f9f-fcbb-4cb8-bbdf-65a13e890221" />
+
